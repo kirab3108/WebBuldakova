@@ -1,0 +1,26 @@
+button{
+    width: 100px;
+    height:30px;
+    border-radius: 4px;
+    margin:50px;
+    background-color: rgb(238, 244, 239);
+    
+}
+.НЕТ{
+    color:#f9f5f5;
+    background-color: #ed0606;
+}
+.ДА{
+    color:#090a09;
+    background-color: rgb(12, 244, 47);
+}
+
+p{
+color: rgb(3, 82, 56);
+font-style: oblique;
+font-size: x-large;
+}
+
+label{
+color: #0a06ed;
+}
