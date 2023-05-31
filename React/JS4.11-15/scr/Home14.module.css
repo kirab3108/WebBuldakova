@@ -1,0 +1,35 @@
+.cointainer {
+    font-size: 40px;
+    box-sizing: border-box;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 20px solid gray;
+    position: absolute;
+    top: calc(50% - 150px);
+    right: calc(50% - 200px);
+    background-color: antiquewhite;
+    width: 400px;
+    height: 300px;
+    }
+    
+    .btn {
+    background: linear-gradient(to bottom, #298e47, #4fb632);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    }
+    
+    .btn:hover {
+    background: linear-gradient(to bottom, #36a447, #158e38);
+    top: 2px;
+    }
